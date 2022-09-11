@@ -1,6 +1,5 @@
 # AMBOK: Agile Project Managment Book
 
-
 ## Steps
 
 1. Strategic Framework (Context Diagram - C4 Model)
